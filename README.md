@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Make necessary changes to the `MyToken.cairo` file:
+1. Make necessary changes to the `MyToken3.cairo` file:
 
    - Set the token name and symbol.
    - Specify the total supply of tokens.
