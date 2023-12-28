@@ -15,7 +15,7 @@ func constructor{
         name: felt,
         symbol: felt,
         decimals: felt,
-        initial_supply: Uint256,
+        initial_supply: Uint26,
         recipient: felt
     ):
     ERC20.initializer(name, symbol, decimals)
