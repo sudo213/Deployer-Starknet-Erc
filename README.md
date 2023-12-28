@@ -13,7 +13,7 @@ To run the Deployer, you need to have the Cairo compiler and Ethereum environmen
 
 ## Installation
 
-1. Clone the repository:
+1.1 Clone the repository:
 
 ```bash
 git clone https://github.com/your_username/erc20-deployer.git
