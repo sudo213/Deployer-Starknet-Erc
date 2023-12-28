@@ -42,7 +42,7 @@ cairo-compile MyToken.cairo --output MyToken
 3. Run the Deployer to deploy the contract:
 
 ```bash
-python deployer.py
+python3 deployer.py
 ```
 
 4. Follow the instructions to input the required parameters.
