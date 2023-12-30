@@ -20,7 +20,7 @@ git clone https://github.com/your_username/erc20-deployer.git
 cd erc20-deployer
 ```
 
-2. Install dependencies:
+2. Install dependencies
 
 ```bash
 pip install -r requirements.txt
